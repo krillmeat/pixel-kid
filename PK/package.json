@@ -1,0 +1,35 @@
+{
+  "name": "ssb-rpg",
+  "version": "0.0.0-alpha.1",
+  "description": "Pixel Kid",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --verbose --silent",
+    "build": "rollup -c",
+    "jsdoc": "jsdoc -c jsdocs.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krillmeat/pixel-kid.git"
+  },
+  "author": "Ross Conover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krillmeat/pixel-kid/issues"
+  },
+  "homepage": "https://github.com/krillmeat/pixel-kid#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@rollup/plugin-babel": "^6.0.4",
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.2",
+    "rollup": "^4.16.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.24.4",
+    "jest-canvas-mock": "^2.5.2",
+    "jsdom": "^24.0.0"
+  }
+}
