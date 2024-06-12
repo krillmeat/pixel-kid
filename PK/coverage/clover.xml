@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1718216580678" clover="3.2.0">
+  <project timestamp="1718216580678" name="All files">
+    <metrics statements="71" coveredstatements="65" conditionals="28" coveredconditionals="23" methods="17" coveredmethods="16" elements="116" coveredelements="104" complexity="0" loc="71" ncloc="71" packages="4" files="6" classes="6"/>
+    <package name="system">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="system.class.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\system\system.class.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+      <file name="system.utils.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\system\system.utils.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="system.screen">
+      <metrics statements="18" coveredstatements="18" conditionals="5" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="screen.class.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\system\screen\screen.class.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+      <file name="screen.utils.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\system\screen\screen.utils.js">
+        <metrics statements="6" coveredstatements="6" conditionals="5" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="32" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="24" type="stmt"/>
+        <line num="14" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="6" type="cond" truecount="0" falsecount="3"/>
+      </file>
+    </package>
+    <package name="system.screen.layer">
+      <metrics statements="35" coveredstatements="29" conditionals="13" coveredconditionals="11" methods="5" coveredmethods="4"/>
+      <file name="layer.class.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\system\screen\layer\layer.class.js">
+        <metrics statements="35" coveredstatements="29" conditionals="13" coveredconditionals="11" methods="5" coveredmethods="4"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="33" count="6" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="37" count="6" type="stmt"/>
+        <line num="38" count="6" type="stmt"/>
+        <line num="40" count="6" type="stmt"/>
+        <line num="41" count="6" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="51" count="6" type="stmt"/>
+        <line num="52" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="64" count="6" type="stmt"/>
+        <line num="65" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="94" count="6" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <file name="log.utils.js" path="C:\Users\conov\Documents\pixel-kid\PK\src\utils\log.utils.js">
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="4" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
